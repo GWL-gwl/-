@@ -1,0 +1,48 @@
+import React from 'react';
+import { 
+  Book, 
+  Upload, 
+  ChevronRight, 
+  ArrowLeft, 
+  CheckCircle, 
+  XCircle, 
+  HelpCircle,
+  FileText,
+  Home,
+  Plus,
+  Trophy,
+  RotateCcw,
+  Check,
+  X,
+  Eye,
+  EyeOff,
+  Trash2,
+  FilePlus,
+  AlertCircle,
+  Loader2,
+  Sparkles
+} from 'lucide-react';
+
+export const Icons = {
+  Book,
+  Upload,
+  ChevronRight,
+  ArrowLeft,
+  CheckCircle,
+  XCircle,
+  HelpCircle,
+  FileText,
+  Home,
+  Plus,
+  Trophy,
+  RotateCcw,
+  Check,
+  X,
+  Eye,
+  EyeOff,
+  Trash2,
+  FilePlus,
+  AlertCircle,
+  Loader2,
+  Sparkles
+};

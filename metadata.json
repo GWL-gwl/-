@@ -1,0 +1,5 @@
+{
+  "name": "刷题大师",
+  "description": "智能刷题助手。支持 PDF/Word/Excel 全量解析，AI 自动生成专属题库。",
+  "requestFramePermissions": []
+}
